@@ -1,5 +1,5 @@
 # De-biased-Courts-View-Generation-with-Causality
-Codes and data for 《De-biased Court’s View Generation with Causality》 EMNLP 2020
+Codes and data for 《De-biased Court’s View Generation with Causality》 EMNLP 2020 https://www.aclweb.org/anthology/2020.emnlp-main.56/
 
 The codes are available, but the data is still under the process of approval, so can not upload here.
 
